@@ -1,6 +1,6 @@
 # game-client
 
-Up localy:
+Up locally:
 ```
 docker-compose up
 ```
